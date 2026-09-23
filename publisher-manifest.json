@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "57c4aae6e18894c7de3ff146",
+  "owner": "uedepyts",
+  "repo": "page-4aa3ff71ab245c962151e51e",
+  "title": "水墨云(Ink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4aa3ff71ab245c962151e51e",
+      "a": "水墨云(Ink)",
+      "b": "2027最新官网",
+      "entity": "水墨云(Ink)",
+      "brand": "水墨云(Ink)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "063093af3f1ce6ef7411bd66293ab17085bf7945f78b5902e1e642fc7b271072",
+      "content": {
+        "primary_entity": "水墨云(Ink)",
+        "keyword1": "水墨云(Ink)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，阅读对应订阅导入文档。",
+          "AI_CLIENTS_TITLE": "客户端适配指南",
+          "AI_CLOSING_TEXT": "选好套餐，依客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "水墨云订阅配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量分别为100GB、300GB与1000GB，支持3台、5台与20台设备同时在线。旗舰版含IPLC专线游戏加速优化，团队版支持企业定制路由与专属客户经理，年付可节省两个月费用。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURE_TEXT_1": "基础版15元月付适合3台设备以内，旗舰版35元月付提供5台与IPLC专线，团队版85元月付支持20台设备与定制路由。",
+          "AI_FEATURE_TEXT_2": "先清点常用设备数量，再对照套餐同时在线限制，避免多设备登录时互相挤占。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础150元、旗舰350元、团队850元，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按需匹配套餐",
+          "AI_FEATURE_TITLE_2": "核对设备限额",
+          "AI_FEATURE_TITLE_3": "订好订阅周期",
+          "AI_GUIDE_INTRO": "选服务、看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_HERO_INTRO": "水墨云提供基础版、旗舰版与团队版三档海外加速订阅，覆盖100GB至1000GB月流量与3至20台设备在线支持。按设备数量与流量需求选择套餐，再依客户端文档导入订阅即可。",
+          "AI_HERO_SUBTITLE": "水墨云订阅配置指南",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_PLANS_INTRO": "比较三档套餐流量、设备上限与专属权益后决定。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据月流量需求与设备数量，从基础版、旗舰版、团队版中选定一档订阅。",
+          "AI_STEP_TEXT_2": "确认当前设备系统与套餐同时在线限额是否匹配，避免超出限制。",
+          "AI_STEP_TEXT_3": "打开所选用客户端，按其订阅导入文档完成配置并连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "水墨云订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "水墨云支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出上限时可考虑升级版本。",
+          "AI_FAQ_QUESTION_2": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_2": "年付相当于减免两个月费用。旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。长期使用可选年付。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端选择添加订阅或配置，粘贴订阅链接后更新节点列表。具体步骤请参考对应客户端的文档说明。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏延迟和连接稳定性进行优化，适合对实时性要求较高的在线游戏和视频通话场景。",
+          "AI_FAQ_QUESTION_5": "团队版适合多少人的团队？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备，每月 1000GB 流量，可满足小型团队日常协作和跨境访问需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqa3728a.com",
+    "host": "xn--9kqa3728a.com"
+  },
+  "file_hashes": {
+    "index.html": "b26408dbc790e2dc44c335f61850dc32932330a0c098e0962135e988886f7cf2",
+    "sitemap.xml": "0343c0a410654d416ada1aa3ed0292a2a3438e2900850cb840994619ba82d25b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a114d8ced7491deacee67beb46d7f0d424b96244f9c2936dc3e72b70c975fb6",
+    "robots.txt": "279f6bc4e656dad3365d24cffaaafe117e01bb680e558852d84b98c1a28f87ba",
+    "95da98633bf5cd827bb0b3ad17518d29.txt": "85f207b2b3c627c6190242e46bd87148a548a9eedd3962cc8d7a53d17a30eb7b"
+  },
+  "revision": "abfbc320a1cfab18329f8a0a13366dd5b27745554342d2ba351057a0b69977ec"
+}
